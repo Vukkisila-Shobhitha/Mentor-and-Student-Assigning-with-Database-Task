@@ -23,7 +23,7 @@ Method: PUT / Assign mentor to a Student by ID
 URL : http://localhost:3000/mentors/:studentID 
 
 Method: GET / Get all students from particular mentor by name
-URL : http://localhost:3000/students/mentor/Mentor_Name
+URL : http://localhost:3000/students/mentor/Hari
 
 Method: GET / Get previousMentor from particular student by ID
 URL : http://localhost:3000/students/previous_mentor/Student_ID
