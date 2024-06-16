@@ -26,6 +26,6 @@ Method: GET / Get all students from particular mentor by name
 URL : http://localhost:3000/students/mentor/Hari
 
 Method: GET / Get previousMentor from particular student by ID
-URL : http://localhost:3000/students/previous_mentor/Student_ID
+URL : http://localhost:3000/students/previous_mentor/666f1c121c311774042f2f22
 
 
